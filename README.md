@@ -1,2 +1,0 @@
-# meteo-app
-# meteo-app
